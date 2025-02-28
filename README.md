@@ -22,3 +22,12 @@ If you use this dataset, please cite our paper:
 Title: Hindi Audio-Video Deepfake (HAV-DF): A Hindi Language-Based Audio-Video Deepfake Dataset
 Authors: Sukhandeep Kaur, Mubashir Buhari, Naman Khandelwal, Priyansh Tyagi, Kiran Sharma
 Reference: arXiv:2411.15457
+
+
+# About this directory
+
+**1. train_videos:** Contains the training videos.
+
+**2. test_videos:** A smaller set of videos meant for public validation.
+
+**3. video_metadata.csv:** A CSV file with metadata and labels for the videos.
