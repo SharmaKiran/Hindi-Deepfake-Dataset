@@ -31,3 +31,7 @@ Reference: arXiv:2411.15457
 **2. test_videos:** A smaller set of videos meant for public validation.
 
 **3. video_metadata.csv:** A CSV file with metadata and labels for the videos.
+
+# Kaggle link
+
+https://www.kaggle.com/datasets/naman3007/hav-df-dataset?resource=download
